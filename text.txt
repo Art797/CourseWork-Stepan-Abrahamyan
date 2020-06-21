@@ -1,0 +1,17 @@
+distance between 0 and 1 is 4
+distance between 2 and 0 is 2
+distance between 0 and 3 is 6
+distance between 1 and 7 is 5
+distance between 1 and 5 is 4
+distance between 3 and 5 is 7
+distance between 4 and 2 is 8
+distance between 7 and 6 is 3
+distance between 6 and 2 is 4
+distance between 2 and 3 is 7
+distance between 2 and 7 is 1
+distance between 4 and 6 is 10
+distance between 5 and 0 is 3
+distance between 4 and 1 is 4
+
+
+
